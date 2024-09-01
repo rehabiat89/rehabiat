@@ -1,0 +1,747 @@
+# Translation of Themes - Gradiant in Arabic
+# This file is distributed under the same license as the Themes - Gradiant package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-07 09:45:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Gradiant\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "A powerful next generation theme for upcoming generations and traditional UI that focuses on the color combinations of solid and gradient colors, along with cool animations and attractive features. It's perfect for any type of business. View the demo of Gradiant Pro https://www.nayrathemes.com/demo/pro/?theme=gradiant"
+msgstr "يتميز Gradiant بقالب مرن وسريع جدا وقابل للتخصيص بسهولة وخفيف وعصري ومتعدد الأغراض. يتضمن Gradiant كل ما قد تحتاجه لإنشاء موقع الكتروني مذهل وهو مثالي لأي نوع من الأعمال. اضغط هنا لتتعرف على العرض التوضيحي ل https://www.nayrathemes.com/demo/pro/?theme=gradiant Gradiant Pro"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Gradiant"
+msgstr "Gradiant"
+
+#: inc/extras.php:268
+msgid "Get started with Gradiant"
+msgstr "بدء الاستخدام مع Gradiant"
+
+#: inc/extras.php:266
+msgid "Install and activate <strong>Clever Fox</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "تنصيب وتفعيل إضافة <strong>Clever Fox</strong> للاستفادة الكاملة من جميع المميزات التي يمكن أن يقدمها هذا القالب."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:262
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "أهلا بك! شكرًا لاختيارك%1$s!"
+
+#: inc/extras.php:255
+msgid "Theme Screenshot"
+msgstr " لقطة شاشة القالب"
+
+#: inc/customize/gradiant-premium.php:36
+msgid "Show Some Love"
+msgstr "أظهر بعض الحب"
+
+#: inc/customize/gradiant-premium.php:32
+msgid "Free Vs Pro"
+msgstr "مجانا مقابل احترافي"
+
+#: inc/customize/gradiant-premium.php:30
+msgid "Get Support"
+msgstr "الحصول على الدعم"
+
+#: inc/customize/gradiant-premium.php:28
+msgid "View Documentation"
+msgstr "رؤية وثائق المساعدة"
+
+#: inc/customize/gradiant-premium.php:12 inc/customize/gradiant-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى احترافي"
+
+#: woocommerce/content-product.php:52
+msgid "out of 5"
+msgstr "من 5"
+
+#: woocommerce/content-product.php:52
+msgid "Rated %s out of 5"
+msgstr "تم تقييم %s من 5"
+
+#: woocommerce/content-product.php:33
+msgid "Sale"
+msgstr "تخفيضات"
+
+#: woocommerce/cart/mini-cart.php:104 woocommerce/cart/mini-cart.php:218
+msgid "No products in the cart."
+msgstr "لا توجد منتجات في السلة."
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:212
+msgid "Checkout"
+msgstr "عملية إنهاء الطلب"
+
+#: woocommerce/cart/mini-cart.php:57 woocommerce/cart/mini-cart.php:171
+msgid "Remove this item"
+msgstr "إزالة هذا العنصر"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:146
+msgid "Total:"
+msgstr "المجموع:"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "صفحة كاملة العرض"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: template-parts/sections/section-breadcrumb.php:45
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#: template-parts/sections/section-breadcrumb.php:41
+msgid "Error 404"
+msgstr "خطأ 404"
+
+#: template-parts/sections/section-breadcrumb.php:37
+msgid "Tag Archives: %s"
+msgstr "أرشيفات الوسوم: %s"
+
+#: template-parts/sections/section-breadcrumb.php:33
+msgid "Category Archives: %s"
+msgstr "أرشيفات التصنيف: %s"
+
+#: template-parts/sections/section-breadcrumb.php:29
+msgid "Yearly Archives: %s"
+msgstr "الأرشيفات السنوية: %s "
+
+#: template-parts/sections/section-breadcrumb.php:25
+msgid "Monthly Archives: %s"
+msgstr "الأرشيفات الشهرية: %s "
+
+#: template-parts/sections/section-breadcrumb.php:21
+msgid "Daily Archives: %s"
+msgstr "الأرشيفات اليومية: %s"
+
+#: template-parts/sections/section-breadcrumb.php:7
+msgid "breadcrumb-effect-active"
+msgstr "تأثير مسارات التنقّل مفعل"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "متابعة قراءة %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:37
+#: template-parts/content/content-search.php:37
+#: template-parts/sections/section-blog.php:65
+msgid "Read More"
+msgstr "قراءة المزيد"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما البحث يمكن أن يساعد."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "تحرير %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "اترك تعليقا<span class=\"screen-reader-text\"> على %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "ذو علامة %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr " نُشرت بتاريخ %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "تم النشر في %s"
+
+#: inc/sidebar/sidebar.php:71
+msgid "This Widget area for Info"
+msgstr "منطقة الودجت هذه للمعلومات"
+
+#: inc/sidebar/sidebar.php:69
+msgid "Info Widget Area"
+msgstr "منطقة ودجت المعلومات"
+
+#: inc/sidebar/sidebar.php:61
+msgid "This Widget area for WooCommerce Widget"
+msgstr "منطقة الودجت هذه لودجت  WooCommerce"
+
+#: inc/sidebar/sidebar.php:59
+msgid "WooCommerce Widget Area"
+msgstr "منطقة ودجت WooCommerce"
+
+#: inc/sidebar/sidebar.php:51
+msgid "The Footer Widget Area 3"
+msgstr "منطقة ودجت التذييل 3"
+
+#: inc/sidebar/sidebar.php:49
+msgid "Footer 3"
+msgstr "التذييل 3"
+
+#: inc/sidebar/sidebar.php:41
+msgid "The Footer Widget Area 2"
+msgstr "منطقة ودجت التذييل 2"
+
+#: inc/sidebar/sidebar.php:39
+msgid "Footer 2"
+msgstr "التذييل 2"
+
+#: inc/sidebar/sidebar.php:31
+msgid "The Footer Widget Area 1"
+msgstr "منطقة ودجت التذييل 1"
+
+#: inc/sidebar/sidebar.php:29
+msgid "Footer 1"
+msgstr "التذييل 1"
+
+#: inc/sidebar/sidebar.php:20
+msgid "The Primary Widget Area"
+msgstr "منطقة الودجات الرئيسية"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "منطقة ودجات الشريط الجانبي"
+
+#: inc/extras.php:147 inc/extras.php:213 woocommerce/cart/mini-cart.php:25
+#: woocommerce/cart/mini-cart.php:139
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:112
+msgid "Type To Search"
+msgstr "اكتب لإجراء البحث"
+
+#: inc/extras.php:111
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: inc/extras.php:110
+msgid "Site Search"
+msgstr "البحث في الموقع"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:919
+msgid "Service 5"
+msgstr "الخدمة 5"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:915
+msgid "Service 4"
+msgstr "الخدمة 4"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:911
+msgid "Service 3"
+msgstr "الخدمة 3"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:907
+msgid "Service 2"
+msgstr "الخدمة 2"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:903
+msgid "Service 1"
+msgstr "الخدمة 1"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:848
+#: inc/customizer-repeater/class/customizer-repeater-control.php:881
+msgid "Add Icon"
+msgstr "إضافة أيقونة"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:843
+#: inc/customizer-repeater/class/customizer-repeater-control.php:873
+msgid "Remove Icon"
+msgstr "إزالة الأيقونة"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:826
+msgid "Social icons"
+msgstr "الأيقونات الاجتماعية"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:818
+msgid "None"
+msgstr "لا شيء"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:813
+msgid "Image type"
+msgstr " نوع الصورة"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:802
+msgid "Center"
+msgstr "وسط"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:798
+msgid "Right"
+msgstr "يمين"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:794
+msgid "Left"
+msgstr "يسار"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:790
+msgid "Slide Align"
+msgstr "محاذاة الشريحة"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:778
+msgid "Slider Image"
+msgstr "صورة عارض الشرائح"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:752
+#: inc/customizer-repeater/class/customizer-repeater-control.php:781
+msgid "Upload Image"
+msgstr "رفع الصورة"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:714
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:713
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "ملاحظة: قد لا يتم عرض بعض الأيقونات هنا. يمكنك رؤية القائمة الكاملة للأيقونات في %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:697
+msgid "Open link in new tab:"
+msgstr "فتح الرابط في علامة تبويب جديدة:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:660
+msgid "Delete field"
+msgstr "حذف الحقل"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "skill"
+msgstr "مهارة"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:491
+msgid "Delete %s"
+msgstr "حذف %s"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:475
+#: inc/customizer-repeater/class/customizer-repeater-control.php:649
+msgid "Designation"
+msgstr "تعيين"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:467
+#: inc/customizer-repeater/class/customizer-repeater-control.php:640
+msgid "Shortcode"
+msgstr "الكود القصير"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:457
+#: inc/customizer-repeater/class/customizer-repeater-control.php:524
+msgid "Color"
+msgstr "اللون"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:427
+#: inc/customizer-repeater/class/customizer-repeater-control.php:625
+msgid "Video Url"
+msgstr "URL الفيديو"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:413
+#: inc/customizer-repeater/class/customizer-repeater-control.php:612
+#: inc/customizer-repeater/class/customizer-repeater-control.php:840
+#: inc/customizer-repeater/class/customizer-repeater-control.php:862
+msgid "Link"
+msgstr "رابط"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:402
+#: inc/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:394
+msgid "skills"
+msgstr "المهارات"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:372
+#: inc/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Subtitle 5"
+msgstr "العنوان الفرعي 5"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:364
+#: inc/customizer-repeater/class/customizer-repeater-control.php:565
+msgid "Subtitle 4"
+msgstr "العنوان الفرعي 4"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:356
+#: inc/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Subtitle 3"
+msgstr "العنوان الفرعي 3"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:348
+#: inc/customizer-repeater/class/customizer-repeater-control.php:549
+msgid "Subtitle 2"
+msgstr "العنوان الفرعي 2"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:340
+#: inc/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Subtitle"
+msgstr "العنوان الفرعي"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:45
+msgid "Customizer Repeater"
+msgstr "مكرر المخصص"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:40
+msgid "Add new field"
+msgstr "إضافة حقل جديد"
+
+#: inc/customizer-notify/gradiant-customizer-notify.php:111
+msgid "Activating"
+msgstr "يتم التنشيط"
+
+#: inc/customize/gradiant-header.php:219 inc/customize/gradiant-header.php:238
+msgid "Sticky Header"
+msgstr "ترويسة مثبتة"
+
+#: inc/customize/gradiant-header.php:206
+msgid "Button Link"
+msgstr "رابط الزر"
+
+#: inc/customize/gradiant-header.php:187
+#: inc/customizer-repeater/class/customizer-repeater-control.php:387
+#: inc/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Button Label"
+msgstr "تسمية الزر"
+
+#: inc/customize/gradiant-header.php:169
+#: inc/customizer-repeater/class/customizer-repeater-control.php:708
+#: inc/customizer-repeater/class/customizer-repeater-control.php:816
+msgid "Icon"
+msgstr "أيقونة"
+
+#: inc/customize/gradiant-header.php:129
+msgid "Button"
+msgstr "الزر"
+
+#: inc/customize/gradiant-header.php:91
+msgid "Cart"
+msgstr "السلة "
+
+#: inc/customize/gradiant-header.php:71 inc/customize/gradiant-header.php:109
+#: inc/customize/gradiant-header.php:148 inc/customize/gradiant-header.php:255
+msgid "Hide/Show"
+msgstr "إخفاء/اظهار"
+
+#: inc/customize/gradiant-header.php:54
+msgid "Search"
+msgstr "بحث"
+
+#: inc/customize/gradiant-header.php:35
+msgid "Header Navigation"
+msgstr "ترويسة التنقل"
+
+#: inc/customize/gradiant-header.php:23
+msgid "Site Identity"
+msgstr "هوية الموقع"
+
+#: inc/customize/gradiant-general.php:278
+msgid "Container Width"
+msgstr "عرض الحاوية"
+
+#: inc/customize/gradiant-general.php:258
+msgid "Container"
+msgstr "الحاوية  "
+
+#: inc/customize/gradiant-general.php:246
+msgid "Fixed"
+msgstr "ثابت"
+
+#: inc/customize/gradiant-general.php:245
+msgid "Scroll"
+msgstr "التمرير"
+
+#: inc/customize/gradiant-general.php:244
+msgid "Inherit"
+msgstr "توريث"
+
+#: inc/customize/gradiant-general.php:239
+msgid "Background Attachment"
+msgstr "مرفق الخلفية"
+
+#: inc/customize/gradiant-general.php:202
+msgid "Background"
+msgstr "الخلفية"
+
+#: inc/customize/gradiant-general.php:176
+msgid "Min Height"
+msgstr "أدنى ارتفاع"
+
+#: inc/customize/gradiant-general.php:137
+msgid "Enable Water Effect on Breadcrumb?"
+msgstr "هل تريد تفعيل تأثير الماء على مسارات التنقّل؟"
+
+#: inc/customize/gradiant-general.php:116
+msgid "Hide / Show Section"
+msgstr "إخفاء / عرض القسم"
+
+#: inc/customize/gradiant-general.php:97
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: inc/customize/gradiant-general.php:77
+msgid "Breadcrumb"
+msgstr "مسارات التنقّل"
+
+#: inc/customize/gradiant-general.php:66
+msgid "Hide / Show Scroller"
+msgstr "إخفاء/اظهار شريط التمرير"
+
+#: inc/customize/gradiant-general.php:47
+msgid "Scroller"
+msgstr "أداة التمرير"
+
+#: inc/customize/gradiant-general.php:36
+msgid "Hide / Show Background Elements"
+msgstr "إخفاء / إظهار عناصر الخلفية"
+
+#: inc/customize/gradiant-general.php:17
+msgid "Background Elements"
+msgstr "عناصر الخلفية"
+
+#: inc/customize/gradiant-general.php:7
+msgid "General"
+msgstr "عام"
+
+#: inc/customize/gradiant-footer.php:295
+msgid "Margin Bottom"
+msgstr "الهامش السفلي"
+
+#: inc/customize/gradiant-footer.php:275
+msgid "Enable Parallax ?"
+msgstr "تفعيل اختلاف المنظر (Parallax)؟"
+
+#: inc/customize/gradiant-footer.php:254
+msgid "Footer Parallax"
+msgstr "اختلاف منظر (Parallax) التذييل"
+
+#: inc/customize/gradiant-footer.php:245 inc/customize/gradiant-general.php:220
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: inc/customize/gradiant-footer.php:228
+msgid "Enable Water Effect on Footer?"
+msgstr "هل تريد تفعيل تأثير الماء على التذييل؟"
+
+#: inc/customize/gradiant-footer.php:208
+msgid "Footer Background"
+msgstr "خلفية التذييل"
+
+#: inc/customize/gradiant-footer.php:177 inc/customize/gradiant-footer.php:197
+msgid "Widget Middle Content"
+msgstr "محتوى ودجت الأوسط"
+
+#: inc/customize/gradiant-footer.php:158
+msgid "Footer Widget Area"
+msgstr "منطقة ودجت التذييل"
+
+#: inc/customize/gradiant-footer.php:132
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "حقوق النشر [current_year] [site_title] | مشغل بواسطة [theme_author]"
+
+#: inc/customize/gradiant-footer.php:125 inc/customize/gradiant-footer.php:145
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: inc/customize/gradiant-footer.php:76 inc/customize/gradiant-footer.php:102
+msgid "Social Icons"
+msgstr "أيقونات اجتماعية"
+
+#: inc/customize/gradiant-footer.php:54
+#: inc/customizer-repeater/class/customizer-repeater-control.php:749
+#: inc/customizer-repeater/class/customizer-repeater-control.php:817
+msgid "Image"
+msgstr "صورة"
+
+#: inc/customize/gradiant-footer.php:36
+msgid "Logo"
+msgstr "الشعار"
+
+#: inc/customize/gradiant-footer.php:17
+msgid "Below Footer"
+msgstr "أسفل التذييل"
+
+#: inc/customize/gradiant-footer.php:10
+msgid "Footer"
+msgstr "تذييل"
+
+#: inc/customize/gradiant-blog.php:147
+msgid "No of Posts Display"
+msgstr "عدد المقالات عرض"
+
+#: inc/customize/gradiant-blog.php:128 inc/customize/gradiant-general.php:156
+msgid "Content"
+msgstr "المحتوى"
+
+#: inc/customize/gradiant-blog.php:107
+#: inc/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Description"
+msgstr "وصف"
+
+#: inc/customize/gradiant-blog.php:87
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:532
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/customize/gradiant-blog.php:68 inc/customize/gradiant-header.php:12
+msgid "Header"
+msgstr "الترويسة"
+
+#: inc/customize/gradiant-blog.php:49
+msgid "Hide / Show"
+msgstr "إخفاء/اظهار"
+
+#: inc/customize/gradiant-blog.php:29
+msgid "Setting"
+msgstr "إعداد"
+
+#: inc/customize/gradiant-blog.php:9
+msgid "Blog Section"
+msgstr "قسم المدونة"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "تعطيل"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "تفعيل"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "تنصيب وتفعيل"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "الإضافة الموصى بها"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "الإجراءات الموصى بها"
+
+#: inc/customize/customizer_recommended_plugin.php:10
+msgid "Install and activate <strong>Cleverfox</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "قم بتنصيب وتفعيل إضافة  <strong>Cleverfox</strong> للاستفادة الكاملة من جميع ميزات التي يجب على هذا القالب ان يوفرها لAvril."
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "أضف قائمة"
+
+#: inc/breadcrumb/breadcrumb.php:149
+msgid "Page"
+msgstr "صفحة"
+
+#: inc/breadcrumb/breadcrumb.php:144
+msgid "Error 404 "
+msgstr "خطأ 404"
+
+#: inc/breadcrumb/breadcrumb.php:140
+msgid "Articles posted by "
+msgstr "المقالات التي نشرت من قبل"
+
+#: inc/breadcrumb/breadcrumb.php:134
+msgid "Posts tagged "
+msgstr "مقالات ذات وسوم"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "نتائج البحث عن"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "الأرشفة حسب التصنيف"
+
+#: inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+msgid "1"
+msgstr "1"
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:10
+msgid "footer-effect-active"
+msgstr "تأثير التذييل مفعل"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "تصفّح التعليقات"
+
+#: 404.php:22
+msgid "Go To Home"
+msgstr "الرجوع الى الصفحة الرئيسية"
+
+#: 404.php:19
+msgid "Oups! We can’t find the page you’re looking for…"
+msgstr "يتعذر العثور على الصفحة التي تبحث عنها"
+
+#: 404.php:18
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#: 404.php:17
+msgid "4"
+msgstr "4"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/gradiant-free/"
+msgstr "https://www.nayrathemes.com/gradiant-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Nayra Themes"
+msgstr "قوالب Nayra"
